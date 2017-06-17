@@ -1,0 +1,19 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "team_civ.fixes.fix_0001",
+    "name": "AbCiv-Fix0001",
+    "description": "AbCiv Fix 0001",
+    "version": "1.0.0",
+    "mcversion": "1.10.2",
+    "url": "https://github.com/Team-AbCiv",
+    "authorList": [ "glease" ],
+    "credits": "Created by glease",
+    "screenshots": [],
+    "parent": "",
+    "requiredMods": [ "Forge", "Railcraft" ],
+    "dependencies": [],
+    "dependants": [],
+    "useDependencyInformation": false
+  }]
+}
