@@ -46,9 +46,6 @@ processResources {
     }
 }
 
-//jar {
-//    manifest {
-//        attributes "FMLLoadingPlugin": "io.github.team_abciv.fixes.fix_0001.Protector"
-//        attributes "FMLCorePluginContainsFMLMod": "true"
-//    }
-//}
+dependencies {
+    files("libs/*.jar")
+}
